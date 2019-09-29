@@ -1,0 +1,11 @@
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/bin/Debug/netcoreapp3.0/01.HelloCSharp
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/bin/Debug/netcoreapp3.0/01.HelloCSharp.deps.json
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/bin/Debug/netcoreapp3.0/01.HelloCSharp.runtimeconfig.json
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/bin/Debug/netcoreapp3.0/01.HelloCSharp.runtimeconfig.dev.json
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/bin/Debug/netcoreapp3.0/01.HelloCSharp.dll
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/bin/Debug/netcoreapp3.0/01.HelloCSharp.pdb
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/obj/Debug/netcoreapp3.0/01.HelloCSharp.csprojAssemblyReference.cache
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/obj/Debug/netcoreapp3.0/01.HelloCSharp.AssemblyInfoInputs.cache
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/obj/Debug/netcoreapp3.0/01.HelloCSharp.AssemblyInfo.cs
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/obj/Debug/netcoreapp3.0/01.HelloCSharp.dll
+/Users/parkjiho/Desktop/CSharp/01.HelloCSharp/01.HelloCSharp/obj/Debug/netcoreapp3.0/01.HelloCSharp.pdb
