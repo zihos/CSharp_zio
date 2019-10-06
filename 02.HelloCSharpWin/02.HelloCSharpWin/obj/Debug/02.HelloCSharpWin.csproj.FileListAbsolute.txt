@@ -1,0 +1,10 @@
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\bin\Debug\02.HelloCSharpWin.exe.config
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\bin\Debug\02.HelloCSharpWin.exe
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\bin\Debug\02.HelloCSharpWin.pdb
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\obj\Debug\02.HelloCSharpWin.csprojAssemblyReference.cache
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\obj\Debug\_02.HelloCSharpWin.Calculator.resources
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\obj\Debug\_02.HelloCSharpWin.Properties.Resources.resources
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\obj\Debug\02.HelloCSharpWin.csproj.GenerateResource.cache
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\obj\Debug\02.HelloCSharpWin.csproj.CoreCompileInputs.cache
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\obj\Debug\02.HelloCSharpWin.exe
+C:\Users\PARKJIHO\Desktop\02.HelloCSharpWin\02.HelloCSharpWin\obj\Debug\02.HelloCSharpWin.pdb
